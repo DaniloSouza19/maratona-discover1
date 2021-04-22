@@ -12,4 +12,4 @@
 - LocalStorage
 
 <img src="https://github.com/DaniloSouza19/maratona-discover1/blob/master/.github/dev-finances-web.png" alt="dev-finances" />
-<img src="https://github.com/DaniloSouza19/maratona-discover1/blob/master/.github/dev-finances-web.png" alt="dev-finances" />
+<img src="https://github.com/DaniloSouza19/maratona-discover1/blob/master/.github/dev-finances-web-modal.png" alt="dev-finances" />
